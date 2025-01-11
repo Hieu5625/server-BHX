@@ -9,7 +9,7 @@ app.use(express.json());
 const config = {
   host: "127.0.0.1",
   user: "root",
-  password: "098753159",
+  password: "123456",
   database: "BHX",
 };
 
